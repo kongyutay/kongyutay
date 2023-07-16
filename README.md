@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kongyutay/kongyutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,10 +47,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/bgQaF.gif"  />
-
-###
-
 <div align="left">
   <a href="https://wa.me/60162026139" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
@@ -64,11 +58,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kongyutay/kongyutay/output/snake.svg" alt="Snake animation" />
 
 ###
