@@ -20,11 +20,17 @@ Here are some ideas to get you started:
 <p align="left">My name is Kong Yu and I'm a frontend developer, from Selangor, Malaysia.</p>
 
 ###
+
+  
+
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kongyutay&theme=dark&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kongyutay&theme=dark&show_icons=true&hide_border=false&count_private=true" height="200" width="480" />
   </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kongyutay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kongyutay&theme=dark&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="480" /></a>
+  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kongyutay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="480" alt="languages graph"  />
 </div>
 
 ###
